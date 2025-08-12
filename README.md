@@ -1,6 +1,8 @@
 ---
 
-![banner](./images/banner_2025.png)
+<p align="center">
+  <img src="./images/banner_2025.png" alt="banner" width="70%">
+</p>
 
 # Hi there <img src="./images/hi.gif" width="20"/>, I'm Xavier!
 
