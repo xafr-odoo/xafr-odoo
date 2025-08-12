@@ -1,6 +1,6 @@
 ---
 
-![banner](./images/banner.png)
+![banner](./images/banner_2025.png)
 
 # Hi there <img src="./images/hi.gif" width="20"/>, I'm Xavier!
 
@@ -24,4 +24,4 @@ The PS-Tech stands for **Professional Services - Technical**. We do our best to 
 ![odoo_banner](./images/odoo_banner_light.png#gh-light-mode-only)
 
 ---
-
+Template credits: @Maurin3
