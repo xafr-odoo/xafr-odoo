@@ -1,16 +1,27 @@
-## Hi there 👋
+---
 
-<!--
-**xafr-odoo/xafr-odoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](./images/banner.png)
 
-Here are some ideas to get you started:
+# Hi there <img src="./images/hi.gif" width="20"/>, I'm Xavier!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a client solution developer for the PS-Tech at Odoo Luxembourg. 
+
+---
+
+### What's Odoo?
+
+Odoo is a suite of open-source business apps that cover all a company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc.
+
+You can see the source code [on GitHub](https://github.com/odoo/odoo).
+
+If you need help with Odoo or found a bug, go to [the support](https://www.odoo.com/help).
+
+### What is the PS-Tech?
+
+The PS-Tech stands for **Professional Services - Technical**. We do our best to help customers tailor the multi-purpose mainstream odoo solution to their own specific needs, whether they work with SaaS, .SH or on-premise. 
+
+![odoo_banner](./images/odoo_banner_dark.png#gh-dark-mode-only)
+![odoo_banner](./images/odoo_banner_light.png#gh-light-mode-only)
+
+---
+
