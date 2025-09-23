@@ -4,7 +4,7 @@
   <img src="./images/banner_2025.png" alt="banner" width="70%">
 </p>
 
-# Hi there <img src="./images/hi.gif" width="20"/>, I'm Xavier (<font color="purple">XAFR</font>)!
+# Hi there <img src="./images/hi.gif" width="20"/>, I'm Xavier (<span style="color:red">X</span>AFR)!
 
 I'm a client solution developer for the PS-Tech at Odoo Luxembourg. 
 
