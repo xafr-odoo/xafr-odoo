@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="./images/banner_2025.png" alt="banner" width="70%">
+  <img src="./images/banner_odoo_19.webp" alt="banner" width="70%">
 </p>
 
 # Hi there <img src="./images/hi.gif" width="20"/>, I'm Xavier (XAFR)!
