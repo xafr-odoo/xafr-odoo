@@ -1,9 +1,4 @@
 ---
-
-<p align="center">
-  <img src="./images/banner_odoo_19.webp" alt="banner" width="70%">
-</p>
-
 # Hi there <img src="./images/hi.gif" width="20"/>, I'm Xavier (XAFR)!
 
 I'm a client solution developer for the PS-Tech at Odoo Luxembourg. 
@@ -22,7 +17,7 @@ If you need help with Odoo or found a bug, go to [the support](https://www.odoo.
 
 The PS-Tech stands for **Professional Services - Technical**. We do our best to help customers tailor the multi-purpose mainstream odoo solution to their own specific needs, whether they work with SaaS, .SH or on-premise. 
 
-![odoo_banner](./images/odoo_banner_dark.png#gh-dark-mode-only)
+![odoo_banner](./images/banner_odoo_19.webp#gh-dark-mode-only)
 ![odoo_banner](./images/odoo_banner_light.png#gh-light-mode-only)
 
 ---
