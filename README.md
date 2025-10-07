@@ -17,7 +17,7 @@ If you need help with Odoo or found a bug, go to [the support](https://www.odoo.
 
 The PS-Tech stands for **Professional Services - Technical**. We do our best to help customers tailor the multi-purpose mainstream odoo solution to their own specific needs, whether they work with SaaS, .SH or on-premise. 
 
-![odoo_banner](./images/banner_odoo_19.webp#gh-dark-mode-only)
+![odoo_banner](./images/odoo_banner_dark.png#gh-dark-mode-only)
 ![odoo_banner](./images/odoo_banner_light.png#gh-light-mode-only)
 
 ---
